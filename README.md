@@ -6,3 +6,7 @@
 
 
 ###### Today is sunday , a day of full of fun . 
+
+```bash
+print()
+```
